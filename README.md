@@ -31,6 +31,7 @@ Screenshot:
 
 # Magic Index
 Given a sorted array A of distinct integers, write a method to find a magic index, if one exists, in array A.
+
 *A magic index occurs when a value of an array matches its index. For example, if we have an array of integers, A
 , and A[5] == 5, then 5 is a magic index of A.* 
 
@@ -41,5 +42,21 @@ This problem has an easy brute force solution, if you search through the whole a
 Screenshot:
 
 ![alt text](https://github.com/DustinVK/CodeChallenges/blob/main/Screenshots/MagicIndex-Screenshot.PNG?raw=true)
+
+
+- - - -
+
+# Paint Fill
+Implement the "paint fill" function that one might find in an image editing program. Given a screen (represented by a two-dimensional array of colors), a point, and a new color, fill in the surrounding area until the color changes from the original color.
+
+The solution to this problem is simply a matter of recursively calling a paint fill method on given coordinate's potential neighbors until there is no more screen, or a different color fromm the original is reached. 
+
+[Solution](https://github.com/DustinVK/CodeChallenges/blob/main/src/vankrimpen/dustin/PaintFill.java "Solution Code") 
+
+Screenshot:
+
+![alt text](https://github.com/DustinVK/CodeChallenges/blob/main/Screenshots/PaintFill-Screenshot.PNG?raw=true)
+
+- - - -
 
 
