@@ -1,6 +1,5 @@
 # CodeChallenges
-A collection of solutions to coding challenges utilizing algorithms and data structures. 
-
+A collection of Java 8 solutions to coding challenges utilizing algorithms and data structures. 
 - - - -
 
 # Jumping Stairs (AKA Triple Step)
