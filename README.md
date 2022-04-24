@@ -1,4 +1,4 @@
-# CodeChallenges
+# CodeChallenges 
 A collection of Java 8 solutions to coding challenges utilizing algorithms and data structures. 
 - - - -
 
